@@ -1,5 +1,5 @@
-- 👋    @jimboothsw
-- 👀   Cloud, Automation, Observability
+- 👋   @jimboothsw
+- 👀   Cloud, Storage, AI/ML, Python, SQL, Linux
 - 🌱   GCP, Data Engineering
 - 📫   jimbooth@me.com
 
